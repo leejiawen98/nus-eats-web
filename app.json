@@ -1,10 +1,8 @@
 {
   "expo": {
-    "name": "NUSeats-admin",
+    "name": "NUSeats (Admin)",
     "slug": "NUSeats-admin",
     "platforms": [
-      "ios",
-      "android",
       "web"
     ],
     "version": "1.0.0",
@@ -23,6 +21,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
